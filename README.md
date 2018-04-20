@@ -13,6 +13,7 @@
 <p align="center">
   <img src="https://github.com/mukeshsolanki/liquidrefreshlayout/blob/master/demo.gif" width="300px" />
 </p>
+
 ## Getting started
 
 Its really simple to integrate *Liquid Refresh Layout* in android. All you need to do make the following change to you build gradle.
